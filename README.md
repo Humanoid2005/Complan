@@ -54,5 +54,9 @@ Start the server
 ```bash
   uvicorn main:app reload
 ```
+## Contributions
+I welcome contributions! Feel free to fork the project and open a pull request for any improvements, bug fixes, or new features.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
