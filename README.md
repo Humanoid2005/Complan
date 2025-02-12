@@ -1,8 +1,7 @@
 
 # ComPlan
 
-A web-app to help people collaborate and efficiently use public resources.
-
+*Let's simplify tasks through collaboration*
 
 ## Features
 
