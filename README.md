@@ -5,10 +5,10 @@
 
 ## Features
 
-- Efficient slot booking for washing machine
-- Collaborate with other people to empower Vehicle Pooling
-- View food menus, healthy food combos and food reviews to empower better menu building
-- Lost & Found area to find your lost belongings
+- **Washing Machine Slot Booking**: Efficient slot booking for washing machine
+- **Vehicle Pooling Slot Booking**: Collaborate with other people to empower Vehicle Pooling
+- **Food Menu display and analysis**: View food menus, healthy food combos and food reviews to empower better menu building
+- **Lost and found**: Lost & Found area to find your lost belongings
 
 
 ## Run Locally
